@@ -1,2 +1,2 @@
 # farhanpravej.github.io
-farhan Pravej's portfolio
+Farhan Pravej | AI & ML Portfolio
